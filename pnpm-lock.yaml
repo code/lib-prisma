@@ -120,8 +120,8 @@ importers:
         specifier: 11.1.1
         version: 11.1.1
       globals:
-        specifier: 15.6.0
-        version: 15.6.0
+        specifier: 15.8.0
+        version: 15.8.0
       globby:
         specifier: 11.1.0
         version: 11.1.0
@@ -6898,8 +6898,8 @@ packages:
     engines: {node: '>=18'}
     dev: true
 
-  /globals@15.6.0:
-    resolution: {integrity: sha512-UzcJi88Hw//CurUIRa9Jxb0vgOCcuD/MNjwmXp633cyaRKkCWACkoqHCtfZv43b1kqXGg/fpOa8bwgacCeXsVg==}
+  /globals@15.8.0:
+    resolution: {integrity: sha512-VZAJ4cewHTExBWDHR6yptdIBlx9YSSZuwojj9Nt5mBRXQzrKakDsVKQ1J63sklLvzAJm0X5+RpO4i3Y2hcOnFw==}
     engines: {node: '>=18'}
     dev: true
 
